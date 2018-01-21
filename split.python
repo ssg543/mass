@@ -1,0 +1,4 @@
+#41 problem
+st,sg=input("Enter string and value").split(' ')
+for i in range(int(sg)):
+    print(st
